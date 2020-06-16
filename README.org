@@ -1,3 +1,3 @@
 * Web servers
 
-To better understand the roles web server play in web development I implanted a handful of web servers in python
+To better understand the role web servers play in web development. I've gone ahead and implemented a handful of web servers in python
