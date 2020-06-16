@@ -1,0 +1,3 @@
+* Web servers
+
+To better understand the roles web server play in web development I implanted a handful of web servers in python
